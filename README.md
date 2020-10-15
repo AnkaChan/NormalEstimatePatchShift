@@ -3,6 +3,8 @@
 Code for:
 - Junjie Cao, He Chen, Jie Zhang*, Yujiao Li, Xiuping Liu, Changqing Zou. Normal Estimation via Shifted Neighborhood for point cloud. Journal of Computational and Applied Mathematics, 2018, 329, 57-67.
 
+<img src = "https://github.com/AnkaChan/NormalEstimatePatchShift/blob/main/Pipeline.PNG" height="1000px"></img> Pipeline<br />
+
 For accurately estimating the normal of a point, the structure of its neighborhood has to be
 analyzed. All the previous methods use some neighborhood centering at the point, which is
 prone to be sampled from different surface patches when the point is near sharp features.
